@@ -1,0 +1,19 @@
+{
+  "name": "techstore",
+  "version": "1.0.0",
+  "description": "tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stigerman/techstore.git"
+  },
+  "author": "stigerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stigerman/techstore/issues"
+  },
+  "homepage": "https://github.com/stigerman/techstore#readme"
+}
